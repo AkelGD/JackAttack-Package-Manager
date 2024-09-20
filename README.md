@@ -5,11 +5,10 @@ A simple Jacking, Hacking, Attacking, and Packing Package manager written fully 
 
 You can download JackAttack by clicking below
 
-*actual link goes here*
+https://github.com/AkelGD/JackAttack-Package-Manager/raw/refs/heads/download/jackattack.exe
 
-Or you can download by running
 
-```curl -L -o https://github.com/AkelGD/JackAttack-Package-Manager/raw/refs/heads/download/jackattack.exe```
+
 
 ## Installing Packages
 
