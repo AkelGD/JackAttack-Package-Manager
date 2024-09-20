@@ -7,6 +7,10 @@ You can download JackAttack by clicking below
 
 *actual link goes here*
 
+Or you can download by running
+
+```curl -L -o JackAttack.zip https://github.com/AkelGD/JackAttack-Package-Manager/archive/refs/heads/main.zip```
+
 ## Installing Packages
 
 Installing packages is simple. You find a JackAttack Package on Github and copy the zip url then run
