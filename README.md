@@ -42,7 +42,7 @@ https://github.com/AkelGD/JackAttack-Template
 ### Info
 
 pack.json is your data file
-src is your source code file
+src is your source code folder
 
 ### Install Your Package
 
