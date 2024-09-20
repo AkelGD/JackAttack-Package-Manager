@@ -19,3 +19,9 @@ Installing packages is simple. You find a JackAttack Package on Github and copy 
 
 You can create a package by simply downloading the template below
 https://github.com/AkelGD/JackAttack-Template
+
+
+## Developers
+
+pack.json is your data file
+src is your source code file
